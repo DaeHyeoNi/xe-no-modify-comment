@@ -2,7 +2,6 @@
 if(!defined('__XE__')) exit();
 /**
 * @file no_modify_comment.addon.php
-* @author 불금 (nettermhell@gmail.com)
 * @brief 대댓글이 정해진 개수 이상일 경우, 수정을 못하게 막습니다.
 **/
 
